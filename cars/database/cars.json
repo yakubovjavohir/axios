@@ -1,0 +1,20 @@
+[
+    {
+        "id": "f5118f2d-8d01-45db-8d74-34c119fd6d5f",
+        "model": "thill",
+        "year": 4024,
+        "price": 1545578000000
+    },
+    {
+        "id": "05135c14-11b3-40b0-8b7e-44f0afabee2b",
+        "model": "nexia",
+        "year": 2024,
+        "price": 8745578000000
+    },
+    {
+        "id": "b2880f7f-6d3b-4866-a73f-dda5b8a6ca9c",
+        "model": "nexia",
+        "year": 2024,
+        "price": 8745578000000
+    }
+]
