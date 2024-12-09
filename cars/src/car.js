@@ -141,7 +141,6 @@ app.delete("/api/user-delete/:user_id", async (req, res)=>{
 app.get("/api/user-getAll/:user_id", async (req, res) => {
     try {
         const id = req.params.user_id;
-        console.log("Foydalanuvchi ID:", id);
         const response = await axios.get(`http://localhost:3000/api/user-getAll/` + id);
         res.status(response.status).json(response.data);
     } catch (error) {
